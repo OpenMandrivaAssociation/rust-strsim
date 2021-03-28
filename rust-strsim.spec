@@ -5,8 +5,8 @@
 %global crate strsim
 
 Name:           rust-%{crate}
-Version:        0.9.3
-Release:        2%{?dist}
+Version:        0.10.0
+Release:        1
 Summary:        Implementations of string similarity metrics
 
 # Upstream license specification: MIT
