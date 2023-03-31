@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        0.10.0
-Release:        1
+Release:        2
 Summary:        Implementations of string similarity metrics
 
 # Upstream license specification: MIT
